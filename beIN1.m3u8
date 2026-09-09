@@ -6,4 +6,5 @@ https://www.manar2.shop/x1/59_1.json
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=854x480,CODECS="avc1.4d401f,mp4a.40.2",NAME="480p"
 https://www.manar2.shop/x1/59_2.json
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360,CODECS="avc1.4d401f,mp4a.40.2",NAME="360p"
-https://embed-cloudfront.wistia.com/deliveries/ec9b561969b4f948e8460754195ee9a228499799.m3u8
+https://www.manar2.shop/x1/59_3.json
+
